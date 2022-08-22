@@ -5,7 +5,7 @@
 ## Hey! 👋
 I'm Saurav, a 33 years old technology enthusiast from India.
 
-- 🧭 Founder at [@th8ta](https://cohotz.com/)
+- 🧭 Founder at [Cohotz](https://cohotz.com/) - Employee Experience
 
 ## Skills
 - 👨‍💻 Java, JavaScript, Python
