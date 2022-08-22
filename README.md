@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">
+  Saurav Samantray
+</h1>
 
-<!--
-**saurav-samantray/saurav-samantray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
+I'm Saurav, a 33 years old technology enthusiast from India.
 
-Here are some ideas to get you started:
+- 🧭 Founder at [@th8ta](https://cohotz.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- 👨‍💻 Java, JavaScript, Python
+- ⚙️ Spring Boot, Reactjs, Nextjs
+- 👁️ AWS, Docker, Kubernetes, ELK, Prometheus, Grafana
+- 💽 MySQL, PostgreSQL, MongoDB, Cassandra
